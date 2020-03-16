@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">Word Generator</string>
+    <string name="input_hint">Введите слитно буквы словаря...</string>
+    <string name="count_label_hint">Укажите количество букв в слове</string>
 </resources>
